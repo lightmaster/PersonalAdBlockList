@@ -62,6 +62,7 @@
 @@||eds.xboxlive.com^$important
 @@||www.xboxlive.com^$important
 @@||settings-win.data.microsoft.com^$important
+@@||sfdataservice.microsoft.com^$important
 
 ! Google Maps
 @@||clients4.google.com^$important
