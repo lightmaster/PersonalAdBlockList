@@ -82,7 +82,19 @@
 @@||googleapis.l.google.com^$important
 
 ! Windows Internet Connectivity Check
-@@||www.msftncsi.com^$important
+@@||msftncsi.com^$important
+
+! Android Internet Connectivity Check
+@@||connectivitycheck.android.com^$important
+@@||android.clients.google.com^$important
+@@||clients3.google.com^$important
+@@||connectivitycheck.gstatic.com^$important
+
+! iOS Internet Connectivity Check
+@@||captive.apple.com^$important
+@@||gsp1.apple.com^$important
+@@||apple.com^$important
+@@||appleiphonecell.com^$important
 
 ! Various Microsoft Webpages
 @@||outlook.office365.com^$important
