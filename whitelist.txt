@@ -141,3 +141,9 @@
 @@||b-api.facebook.com^$important
 @@||fb.me^$important
 @@||bigzipfiles.facebook.com^$important
+
+! DirectTV
+@@||directvnow.com^$important
+@@||directvapplications.hb.omtrdc.net^$important
+@@||s.zkcdn.net^$important
+@@||js.maxmind.com^$important
