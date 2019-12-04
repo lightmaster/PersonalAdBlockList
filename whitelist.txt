@@ -70,3 +70,7 @@
 
 ! Google Play
 @@||android.clients.google.com^$important
+
+! Google Keep Chrome App
+@@||reminders-pa.googleapis.com^$important
+@@||firestore.googleapis.com^$important
