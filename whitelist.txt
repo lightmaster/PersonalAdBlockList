@@ -17,3 +17,7 @@
 ! Can't remember why I unblocked these but remember they are important
 @@||api.viglink.com^$important
 @@||kmspico10.com^$important
+
+! Allow annoying paid links
+@@||pub.s6.exacttarget.com^$important
+@@||click.linksynergy.com^$important
