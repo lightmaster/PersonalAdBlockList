@@ -27,13 +27,12 @@
 
 ! Allow Macon.com online newspaper
 @@||mobile-collector.newrelic.com^$important
-@@||www.everestjs.net^$important
+@@||everestjs.net^$important
 @@||mcclatchy.sc.omtrdc.net^$important
 @@||s.go-mpulse.net^$important
 @@||c.go-mpulse.net^$important
 @@||app-measurement.com^$important
 @@||macon.com^$important
-@@||eedition.macon.com^$important
 @@||dpm.demdex.net^$important
 @@||device-metrics-us.amazon.com^$important
 
@@ -44,23 +43,9 @@
 @@||clientconfig.passport.net^$important
 @@||client-s.gateway.messenger.live.com^$important
 @@||xbox.ipv6.microsoft.com^$important
-@@||device.auth.xboxlive.com^$important
-@@||www.msftncsi.com^$important
-@@||title.mgt.xboxlive.com^$important
-@@||xsts.auth.xboxlive.com^$important
-@@||title.auth.xboxlive.com^$important
+! "msftncsi.com" from the "Windows Internet Connectivity Check" is needed
 @@||ctldl.windowsupdate.com^$important
-@@||attestation.xboxlive.com^$important
-@@||xboxexperiencesprod.experimentation.xboxlive.com^$important
-@@||xflight.xboxlive.com^$important
-@@||cert.mgt.xboxlive.com^$important
-@@||xkms.xboxlive.com^$important
-@@||def-vef.xboxlive.com^$important
-@@||notify.xboxlive.com^$important
-@@||help.ui.xboxlive.com^$important
-@@||licensing.xboxlive.com^$important
-@@||eds.xboxlive.com^$important
-@@||www.xboxlive.com^$important
+@@||xboxlive.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||sfdataservice.microsoft.com^$important
 
@@ -73,7 +58,7 @@
 @@||video-stats.l.google.com^$important
 
 ! Google Play
-@@||android.clients.google.com^$important
+! "android.clients.google.com" from "Android Internet Connectivity Check" is needed
 
 ! Google Keep Chrome App
 @@||reminders-pa.googleapis.com^$important
@@ -92,8 +77,6 @@
 @@||connectivitycheck.gstatic.com^$important
 
 ! iOS Internet Connectivity Check
-@@||captive.apple.com^$important
-@@||gsp1.apple.com^$important
 @@||apple.com^$important
 @@||appleiphonecell.com^$important
 
@@ -115,7 +98,7 @@
 
 ! Don't block Skype (Windows, Linux, and Mac)
 @@||s.gateway.messenger.live.com^$important
-@@||client-s.gateway.messenger.live.com^$important
+! "client-s.gateway.messenger.live.com" from "Xbox Services" is needed
 @@||ui.skype.com^$important
 @@||pricelist.skype.com^$important
 @@||apps.skype.com^$important
@@ -132,7 +115,6 @@
 
 ! Allow Target's Weekly Ad
 @@||weeklyad.target.com^$important
-@@||m.weeklyad.target.com^$important
 @@||weeklyad.target.com.edgesuite.net^$important
 
 ! Facebook Messenger (As much as I hate it, "some" people require me to unblock it...
@@ -166,7 +148,6 @@
 
 ! Plex Media Server
 @@||plex.tv^$important
-@@||tvdb2.plex.tv^$important
 @@||pubsub.plex.bz^$important
 @@||proxy.plex.bz^$important
 @@||proxy02.pop.ord.plex.bz^$important
@@ -176,20 +157,9 @@
 @@||tvthemes.plexapp.com.cdn.cloudflare.net^$important
 @@||tvthemes.plexapp.com^$important
 @@||106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services^$important
-@@||meta.plex.tv^$important
 @@||cpms35.spop10.ams.plex.bz^$important
-@@||proxy.plex.tv^$important
-@@||metrics.plex.tv^$important
-@@||pubsub.plex.tv^$important
-@@||status.plex.tv^$important
-@@||www.plex.tv^$important
 @@||node.plexapp.com^$important
 @@||nine.plugins.plexapp.com^$important
-@@||staging.plex.tv^$important
-@@||app.plex.tv^$important
-@@||o1.email.plex.tv ^$important
-@@||o2.sg0.plex.tv^$important
-@@||dashboard.plex.tv^$important
 @@||gravatar.com^$important
 @@||thetvdb.com^$important
 @@||themoviedb.com^$important
@@ -210,11 +180,7 @@
 @@||s.marketwatch.com^$important
 
 ! Apple Music
-@@||itunes.apple.com^$important
 @@||s.mzstatic.com^$important
-
-! Apple ID
-@@||appleid.apple.com^$important
 
 ! GoDaddy
 @@||imagesak.secureserver.net^$important
@@ -234,7 +200,6 @@
 
 ! Bing Maps (Does anyone even care?)
 @@||dev.virtualearth.net^$important
-@@||ecn.dev.virtualearth.net^$important
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@||t0.ssl.ak.tiles.virtualearth.net^$important
 
