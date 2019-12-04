@@ -186,3 +186,6 @@
 @@||dl.dropboxusercontent.com^$important
 @@||ns1.dropbox.com^$important
 @@||ns2.dropbox.com^$important
+
+! Fox News
+@@||widget-cdn.rpxnow.com^$important
