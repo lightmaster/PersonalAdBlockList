@@ -118,3 +118,26 @@
 @@||weeklyad.target.com^$important
 @@||m.weeklyad.target.com^$important
 @@||weeklyad.target.com.edgesuite.net^$important
+
+! Facebook Messenger (As much as I hate it, "some" people require me to unblock it...
+@@||upload.facebook.com^$important
+@@||creative.ak.fbcdn.net^$important
+@@||external-lhr{0..10}-1.xx.fbcdn.net^$important
+@@||fbcdn-creative-a.akamaihd.net^$important
+@@||scontent-lhr3-1.xx.fbcdn.net^$important
+@@||scontent.xx.fbcdn.net^$important
+@@||scontent.fgdl5-1.fna.fbcdn.net^$important
+@@||graph.facebook.com^$important
+@@||b-graph.facebook.com^$important
+@@||connect.facebook.com^$important
+@@||cdn.fbsbx.com^$important
+@@||api.facebook.com^$important
+! Waaayyy too many domains for one simple service...
+@@||edge-mqtt.facebook.com^$important
+@@||mqtt.c10r.facebook.com^$important
+@@||portal.fb.com^$important
+@@||star.c10r.facebook.com^$important
+@@||star-mini.c10r.facebook.com^$important
+@@||b-api.facebook.com^$important
+@@||fb.me^$important
+@@||bigzipfiles.facebook.com^$important
