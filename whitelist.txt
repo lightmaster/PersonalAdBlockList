@@ -189,3 +189,6 @@
 
 ! Fox News
 @@||widget-cdn.rpxnow.com^$important
+
+! Marketwatch Images
+@@||s.marketwatch.com^$important
