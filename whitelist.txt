@@ -1,5 +1,5 @@
 ! Title: Lightmaster's Whitelist
-! Version: 20191203-0906
+! Version: 20191203-0918
 ! Expires: 1 day
 ! Purpose: Fix some websites and services that Adblocking typically breaks
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
@@ -96,3 +96,13 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
+
+! Don't block Skype (Windows, Linux, and Mac)
+@@||s.gateway.messenger.live.com^$important
+@@||client-s.gateway.messenger.live.com^$important
+@@||ui.skype.com^$important
+@@||pricelist.skype.com^$important
+@@||apps.skype.com^$important
+@@||m.hotmail.com^$important
+@@||sa.symcb.com^$important
+@@||s{1..5}.symcb.com^$important
