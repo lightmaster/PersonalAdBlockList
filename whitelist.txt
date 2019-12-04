@@ -9,6 +9,9 @@
 @@||baxleyweather.com^$important
 
 ! Help ESPN Videos play
+@@||fpdownload.adobe.com^$important
+@@||entitlement.auth.adobe.com^$important
+@@||livepassdl.conviva.com^$important
 @@||control.tvinteractive.tv^$important
 @@||secure-drm.imrworldwide.com^$important
 @@||espn.hb.omtrdc.net^$important
