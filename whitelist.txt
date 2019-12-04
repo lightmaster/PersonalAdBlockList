@@ -13,3 +13,7 @@
 @@||secure-drm.imrworldwide.com^$important
 @@||espn.hb.omtrdc.net^$important
 @@||elinkeu.clickdimensions.com^$important
+
+! Can't remember why I unblocked these but remember they are important
+@@||api.viglink.com^$important
+@@||kmspico10.com^$important
