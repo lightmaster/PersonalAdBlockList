@@ -1,5 +1,5 @@
 ! Title: Lightmaster's Whitelist
-! Version: 20191203-0921
+! Version: 20191203-0922
 ! Expires: 1 day
 ! Purpose: Fix some websites and services that Adblocking typically breaks
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
@@ -113,3 +113,8 @@
 ! Spotify (iOS)
 @@||spclient.wg.spotify.com^$important
 @@||apresolve.spotify.com^$important
+
+! Allow Target's Weekly Ad
+@@||weeklyad.target.com^$important
+@@||m.weeklyad.target.com^$important
+@@||weeklyad.target.com.edgesuite.net^$important
