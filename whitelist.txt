@@ -199,3 +199,6 @@
 
 ! GoDaddy
 @@||imagesak.secureserver.net^$important
+
+! Google Chrome (Ubuntu)
+@@||dl.google.com^$important
