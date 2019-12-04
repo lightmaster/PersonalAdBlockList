@@ -88,3 +88,6 @@
 @@||i.s-microsoft.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
+
+! Microsoft Bitlocker Key Backup
+@@||g.live.com^$important
