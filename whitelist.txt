@@ -214,3 +214,18 @@
 
 ! Epic Games
 @@||tracking.epicgames.com^$important
+
+! Borderlands website
+@@||borderlands.com^$important
+
+! SiriusXM
+@@||care.siriusxm.com^$important
+
+! Destiny 2 online store
+@@||www.destiny2game.com^$important
+
+! Destiny 2 LFG
+@@||www.destinylfg.net^$important
+
+! Gamespot
+@@||www.gamespot.com^$important
