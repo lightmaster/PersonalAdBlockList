@@ -91,3 +91,8 @@
 
 ! Microsoft Bitlocker Key Backup
 @@||g.live.com^$important
+
+! Allow Microsoft Store to function
+@@||dl.delivery.mp.microsoft.com^$important
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
