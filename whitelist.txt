@@ -208,3 +208,7 @@
 
 ! Google Chrome (Ubuntu)
 @@||dl.google.com^$important
+
+! NVidia Drivers
+@@||gfwsl.geforce.com^$important
+
