@@ -4,3 +4,6 @@
 ! Purpose: Fix some websites and services that Adblocking typically breaks
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
 ! Download: https://raw.githubusercontent.com/lightmaster/PersonalAdBlockList/master/whitelist.txt
+
+! My Website
+@@||baxleyweather.com^$important
