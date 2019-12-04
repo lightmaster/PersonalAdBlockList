@@ -224,3 +224,6 @@
 @@||ecn.dev.virtualearth.net^$important
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@||t0.ssl.ak.tiles.virtualearth.net^$important
+
+! Moto phone updates
+@@||appspot-preview.l.google.com^$important
