@@ -192,3 +192,7 @@
 
 ! Marketwatch Images
 @@||s.marketwatch.com^$important
+
+! Apple Music
+@@||itunes.apple.com^$important
+@@||s.mzstatic.com^$important
