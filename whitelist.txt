@@ -177,3 +177,7 @@
 @@||gravatar.com^$important
 @@||thetvdb.com^$important
 @@||themoviedb.com^$important
+
+! Image Placeholders
+@@||placehold.it^$important
+@@||placeholdit.imgix.net^$important
