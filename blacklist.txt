@@ -10,3 +10,19 @@
 
 ! Kept getting massive traffic to this URL
 ||whattoexpect.com^$important
+
+! Attempt to hide elements
+www.techrepublic.com##.large.video.shortcode
+
+www.pirate-bay.net###vpnModal
+www.pirate-bay.net##.sidebar-vpn
+
+www.digitaltrends.com##.is-stuck.h-sticky-video.m-sticky-video_orphan.m-sticky-video
+
+www.pcgamer.com##.jw-carousel
+
+attackofthefanboy.com###mcdPlayer_parent_fca596eb-1828-4913-8a42-dd04c6fbe4ea
+attackofthefanboy.com###mcdPlayer_parent_eaec6aa3-8f33-426d-9a55-a6dad5a1364b
+attackofthefanboy.com###\39 03afd77-d04d-40f3-8329-91b38ed656d4
+
+www.bestbuy.com##.blue-assist > .blue-assist-tab
