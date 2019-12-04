@@ -7,3 +7,9 @@
 
 ! My Website
 @@||baxleyweather.com^$important
+
+! Help ESPN Videos play
+@@||control.tvinteractive.tv^$important
+@@||secure-drm.imrworldwide.com^$important
+@@||espn.hb.omtrdc.net^$important
+@@||elinkeu.clickdimensions.com^$important
