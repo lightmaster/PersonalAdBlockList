@@ -67,3 +67,6 @@
 ! Youtube History
 @@||s.youtube.com^$important
 @@||video-stats.l.google.com^$important
+
+! Google Play
+@@||android.clients.google.com^$important
