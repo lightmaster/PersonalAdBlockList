@@ -245,3 +245,6 @@
 
 ! Chevy's site
 @@||chevrolet.com^$important
+
+! Epic Games
+@@||tracking.epicgames.com^$important
