@@ -4,3 +4,9 @@
 ! Purpose: Block some crap that other filters don't
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
 ! Download: https://raw.githubusercontent.com/lightmaster/PersonalAdBlockList/master/blacklist.txt
+
+! Annoying Video Popups
+||kotaku.com/video
+
+! Kept getting massive traffic to this URL
+||whattoexpect.com^$important
