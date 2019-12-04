@@ -63,3 +63,7 @@
 ! Google Maps
 @@||clients4.google.com^$important
 @@||clients2.google.com^$important
+
+! Youtube History
+@@||s.youtube.com^$important
+@@||video-stats.l.google.com^$important
