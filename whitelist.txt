@@ -212,3 +212,9 @@
 ! NVidia Drivers
 @@||gfwsl.geforce.com^$important
 
+! Allow some online videos
+@@||delivery.vidible.tv^$important
+@@||img.vidible.tv^$important
+@@||videos.vidible.tv^$important
+@@||edge.api.brightcove.com^$important
+@@||cdn.vidible.tv^$important
