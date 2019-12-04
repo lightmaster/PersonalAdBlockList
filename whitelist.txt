@@ -1,5 +1,5 @@
 ! Title: Lightmaster's Whitelist
-! Version: 20191203-0918
+! Version: 20191203-0919
 ! Expires: 1 day
 ! Purpose: Fix some websites and services that Adblocking typically breaks
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
@@ -106,3 +106,6 @@
 @@||m.hotmail.com^$important
 @@||sa.symcb.com^$important
 @@||s{1..5}.symcb.com^$important
+
+! Microsoft Office
+@@||officeclient.microsoft.com^$important
