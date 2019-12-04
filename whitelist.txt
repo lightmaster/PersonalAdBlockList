@@ -77,3 +77,6 @@
 
 ! Gmail (iOS app)
 @@||googleapis.l.google.com^$important
+
+! Windows Internet Connectivity Check
+@@||www.msftncsi.com^$important
