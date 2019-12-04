@@ -1,0 +1,6 @@
+! Title: Lightmaster's Blacklist
+! Version: 20191203-0822
+! Expires: 1 day
+! Purpose: Block some crap that other filters don't
+! Homepage: https://github.com/lightmaster/PersonalAdBlockList
+! Download: https://raw.githubusercontent.com/lightmaster/PersonalAdBlockList/master/blacklist.txt
