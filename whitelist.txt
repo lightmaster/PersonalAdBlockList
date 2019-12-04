@@ -1,5 +1,5 @@
 ! Title: Lightmaster's Whitelist
-! Version: 20191203-0919
+! Version: 20191203-0921
 ! Expires: 1 day
 ! Purpose: Fix some websites and services that Adblocking typically breaks
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
@@ -109,3 +109,7 @@
 
 ! Microsoft Office
 @@||officeclient.microsoft.com^$important
+
+! Spotify (iOS)
+@@||spclient.wg.spotify.com^$important
+@@||apresolve.spotify.com^$important
