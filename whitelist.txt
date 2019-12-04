@@ -1,5 +1,5 @@
 ! Title: Lightmaster's Whitelist
-! Version: 20191203-0922
+! Version: 20191203-0941
 ! Expires: 1 day
 ! Purpose: Fix some websites and services that Adblocking typically breaks
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
@@ -239,3 +239,6 @@
 
 ! Moto phone updates
 @@||appspot-preview.l.google.com^$important
+
+! GTA Online
+@@||prod.telemetry.ros.rockstargames.com^$important
