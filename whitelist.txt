@@ -174,3 +174,6 @@
 @@||o1.email.plex.tv ^$important
 @@||o2.sg0.plex.tv^$important
 @@||dashboard.plex.tv^$important
+@@||gravatar.com^$important
+@@||thetvdb.com^$important
+@@||themoviedb.com^$important
