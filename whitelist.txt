@@ -16,14 +16,58 @@
 @@||secure-drm.imrworldwide.com^$important
 @@||espn.hb.omtrdc.net^$important
 @@||elinkeu.clickdimensions.com^$important
+@@||espncdn.com^$important
+@@||go.com^$important
 
 ! Can't remember why I unblocked these but remember they are important
 @@||api.viglink.com^$important
 @@||kmspico10.com^$important
+@@||www.jdoqocy.com^$important
 
 ! Allow annoying paid links
 @@||pub.s6.exacttarget.com^$important
 @@||click.linksynergy.com^$important
+
+! Random Useful whitelists
+@@||adobe.com^$important
+@@||ajax.googleapis.com^$important
+@@||content.googleapis.com^$important
+@@||google.com^$important
+@@||highcharts.com^$important
+@@||usaweatherfinder.com^$important
+@@||vixenless.com^$important
+@@||windy.com^$important
+@@||youtube.com^$important
+
+! Newegg.com
+@@||newegg.com^$important
+
+! Best Buy
+@@||bbystatic.com^$important
+@@||bestbuy.com^$important
+@@||cardinalcommerce.com^$important
+@@||paypal.com^$important
+@@||usaa360.com^$important
+
+! Make sure Nest works
+@@||nest.com^$important
+
+! Twitter Images
+@@||twimg.com^$important
+@@||twitter.com^$important
+
+! Piratebay
+@@||tpb.party^$important
+
+! USAA
+@@||usaa.com^$important
+
+! Zaxby's Online Ordering
+@@||braintreegateway.com^$important
+
+! CBS Images and Videos
+@@||cbsi.com^$important
+@@||cbsistatic.com^$important
 
 ! Allow Macon.com online newspaper
 @@||mobile-collector.newrelic.com^$important
@@ -229,3 +273,6 @@
 
 ! Gamespot
 @@||www.gamespot.com^$important
+
+! MET Office
+@@||wow.metoffice.gov.uk^$important
