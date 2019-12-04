@@ -74,3 +74,6 @@
 ! Google Keep Chrome App
 @@||reminders-pa.googleapis.com^$important
 @@||firestore.googleapis.com^$important
+
+! Gmail (iOS app)
+@@||googleapis.l.google.com^$important
