@@ -218,3 +218,9 @@
 @@||videos.vidible.tv^$important
 @@||edge.api.brightcove.com^$important
 @@||cdn.vidible.tv^$important
+
+! Bing Maps (Does anyone even care?)
+@@||dev.virtualearth.net^$important
+@@||ecn.dev.virtualearth.net^$important
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@||t0.ssl.ak.tiles.virtualearth.net^$important
