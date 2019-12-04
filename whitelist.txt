@@ -196,3 +196,6 @@
 ! Apple Music
 @@||itunes.apple.com^$important
 @@||s.mzstatic.com^$important
+
+! GoDaddy
+@@||imagesak.secureserver.net^$important
