@@ -197,6 +197,9 @@
 @@||itunes.apple.com^$important
 @@||s.mzstatic.com^$important
 
+! Apple ID
+@@||appleid.apple.com^$important
+
 ! GoDaddy
 @@||imagesak.secureserver.net^$important
 
