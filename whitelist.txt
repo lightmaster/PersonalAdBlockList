@@ -21,3 +21,15 @@
 ! Allow annoying paid links
 @@||pub.s6.exacttarget.com^$important
 @@||click.linksynergy.com^$important
+
+! Allow Macon.com online newspaper
+@@||mobile-collector.newrelic.com^$important
+@@||www.everestjs.net^$important
+@@||mcclatchy.sc.omtrdc.net^$important
+@@||s.go-mpulse.net^$important
+@@||c.go-mpulse.net^$important
+@@||app-measurement.com^$important
+@@||macon.com^$important
+@@||eedition.macon.com^$important
+@@||dpm.demdex.net^$important
+@@||device-metrics-us.amazon.com^$important
