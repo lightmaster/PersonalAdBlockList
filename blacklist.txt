@@ -29,3 +29,6 @@ attackofthefanboy.com###mcdPlayer_parent_eaec6aa3-8f33-426d-9a55-a6dad5a1364b
 attackofthefanboy.com###\39 03afd77-d04d-40f3-8329-91b38ed656d4
 
 www.bestbuy.com##.blue-assist > .blue-assist-tab
+
+! Try to block offers on Mint.com
+mint.intuit.com##.offerContainer
