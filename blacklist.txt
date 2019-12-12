@@ -11,6 +11,9 @@
 ! Kept getting massive traffic to this URL
 ||whattoexpect.com^$important
 
+! Had to block this to block some Google Ads
+||adservice.google.com^$important
+
 ! Attempt to hide elements
 www.techrepublic.com##.large.video.shortcode
 
