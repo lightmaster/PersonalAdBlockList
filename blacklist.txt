@@ -32,3 +32,15 @@ www.bestbuy.com##.blue-assist > .blue-assist-tab
 
 ! Try to block offers on Mint.com
 mint.intuit.com##.offerContainer
+
+! 6/15/2020 https://www.misthub.com
+www.misthub.com###warning-wrapper
+
+! 6/24/2020 https://www.amazon.com
+www.amazon.com##.s-border-bottom.s-include-content-margin > .a-spacing-top-medium.a-spacing-medium.a-section > .sg-row
+
+! 7/2/2020 https://www.facebook.com
+www.facebook.com###u_0_29
+
+! 7/31/2020 https://forums.sonarr.tv
+forums.sonarr.tv##.banner
