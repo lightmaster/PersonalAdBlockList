@@ -5,6 +5,9 @@
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
 ! Download: https://raw.githubusercontent.com/lightmaster/PersonalAdBlockList/master/blacklist.txt
 
+! This should always be blocked due to its massive abuse
+||pizzaseo.com
+
 ! Annoying Video Popups
 ||kotaku.com/video
 
@@ -44,3 +47,10 @@ www.facebook.com###u_0_29
 
 ! 7/31/2020 https://forums.sonarr.tv
 forums.sonarr.tv##.banner
+
+||5hz.org^$important
+||https://www.joincampaignzero.org^$important
+||https://imgs.xkcd.com/news/blm.png
+||g02.ign.com^$important
+||def.dev-nano.com^$important
+||androidtvwatsonfe-pa.googleapis.com^$important
