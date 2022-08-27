@@ -1,5 +1,5 @@
 ! Title: Lightmaster's Blacklist
-! Version: 20191203-0822
+! Version: 2022-08-27 1620
 ! Expires: 1 day
 ! Purpose: Block some crap that other filters don't
 ! Homepage: https://github.com/lightmaster/PersonalAdBlockList
@@ -36,16 +36,16 @@ www.bestbuy.com##.blue-assist > .blue-assist-tab
 ! Try to block offers on Mint.com
 mint.intuit.com##.offerContainer
 
-! 6/15/2020 https://www.misthub.com
+! 2020-06-15 https://www.misthub.com
 www.misthub.com###warning-wrapper
 
-! 6/24/2020 https://www.amazon.com
+! 2020-06-24 https://www.amazon.com
 www.amazon.com##.s-border-bottom.s-include-content-margin > .a-spacing-top-medium.a-spacing-medium.a-section > .sg-row
 
-! 7/2/2020 https://www.facebook.com
+! 2020-07-02 https://www.facebook.com
 www.facebook.com###u_0_29
 
-! 7/31/2020 https://forums.sonarr.tv
+! 2020-07-31 https://forums.sonarr.tv
 forums.sonarr.tv##.banner
 
 ||5hz.org^$important
@@ -54,3 +54,6 @@ forums.sonarr.tv##.banner
 ||g02.ign.com^$important
 ||def.dev-nano.com^$important
 ||androidtvwatsonfe-pa.googleapis.com^$important
+
+! 2022-08-27 Block automatic Kindle Updates
+||firs-ta-g7g.amazon.com^$important
