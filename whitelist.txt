@@ -409,3 +409,14 @@
 @@||prd.sca.samsung.com^$important
 @@||trk.klclick1.com^$important
 @@||service.kingoapp.com^$important
+
+! 2022-10-25
+@@||wwwimage-tve.cbsstatic.com^$important
+@@||s.w-x.co^$important
+@@||files.pythonhosted.org^$important
+@@||links.menard.mkt1946.com^$important
+@@||educatiocenter.online^$important
+@@||csm-e-hbovod-eb.hbo.yspsvc-na.net^$important
+@@||click.redditmail.com^$important
+@@||fave.co^$important
+@@||www.tractorsupply.com^$important
