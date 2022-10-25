@@ -55,5 +55,5 @@ forums.sonarr.tv##.banner
 ||def.dev-nano.com^$important
 ||androidtvwatsonfe-pa.googleapis.com^$important
 
-! 2022-08-27 Block automatic Kindle Updates
-||firs-ta-g7g.amazon.com^$important
+! 2022-10-25
+||2miners.com^$important
