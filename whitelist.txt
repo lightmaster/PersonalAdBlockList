@@ -409,6 +409,3 @@
 @@||prd.sca.samsung.com^$important
 @@||trk.klclick1.com^$important
 @@||service.kingoapp.com^$important
-
-! 2022-10-04
-10.0.0.1 unifi
