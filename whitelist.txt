@@ -420,3 +420,17 @@
 @@||click.redditmail.com^$important
 @@||fave.co^$important
 @@||www.tractorsupply.com^$important
+
+! 2023-02-07
+
+@@||lightmaster.pw^$important
+@@||imasdk.googleapis.com^$important
+@@||api2.branch.io^$important
+@@||budman.pw^$important
+@@||email-sendgrid-deep-linking.chewy.com^$important
+
+! This was the one that's been preventing Dick's Sporting Goods' website from working
+@@||dsg.tt.omtrdc.net^$important
+
+@@||fineagedgaming.com^$important
+@@||vyper.io^$important
