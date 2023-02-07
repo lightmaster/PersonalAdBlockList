@@ -57,3 +57,6 @@ forums.sonarr.tv##.banner
 
 ! 2022-10-25
 ||2miners.com^$important
+
+! 2023-02-07
+||nav.smartscreen.microsoft.com^$important
