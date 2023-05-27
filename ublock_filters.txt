@@ -1,0 +1,148 @@
+! 10/8/2019 https://www.techrepublic.com
+www.techrepublic.com##.large.video.shortcode
+
+! 10/11/2019 https://www.pirate-bay.net
+www.pirate-bay.net###vpnModal
+www.pirate-bay.net##.sidebar-vpn
+
+! 10/16/2019 https://www.digitaltrends.com
+www.digitaltrends.com##.is-stuck.h-sticky-video.m-sticky-video_orphan.m-sticky-video
+
+! 10/27/2019 https://www.pcgamer.com
+www.pcgamer.com##.jw-carousel
+
+! 11/1/2019 https://attackofthefanboy.com
+attackofthefanboy.com###mcdPlayer_parent_fca596eb-1828-4913-8a42-dd04c6fbe4ea
+attackofthefanboy.com###mcdPlayer_parent_eaec6aa3-8f33-426d-9a55-a6dad5a1364b
+attackofthefanboy.com###\39 03afd77-d04d-40f3-8329-91b38ed656d4
+
+www.bestbuy.com##.blue-assist > .blue-assist-tab
+
+! 12/10/2019 https://mint.intuit.com
+mint.intuit.com##.offerContainer
+
+! 6/15/2020 https://www.misthub.com
+www.misthub.com###warning-wrapper
+
+! 8/1/2020 https://www.amazon.com
+www.amazon.com##.s-border-bottom.s-include-content-margin > .a-spacing-top-medium.a-spacing-medium.a-section
+www.amazon.com##div.sg-col-24-of-28.sg-col-12-of-16.sg-col-32-of-36.s-flex-geom.sg-col.s-widget.sg-col-16-of-20.sg-col-28-of-32.sg-col-0-of-12.s-result-item.sg-col-20-of-24:nth-of-type(11)
+
+! 8/14/2020 https://www.tomshardware.com
+www.tomshardware.com##.jw-carousel
+
+! 8/15/2020 https://grounded.obsidian.net
+grounded.obsidian.net###cookie-consent-popup
+
+! 2020-09-04 https://rememberme.fandom.com
+rememberme.fandom.com##WikiBar
+
+! 2020-09-17 https://www.nakivo.com
+www.nakivo.com###sticky_banner
+
+! 2020-10-14 https://www.dell.com
+www.dell.com##.ask-question-banner-wrapper
+
+! 2021-03-15 https://www.zaxbys.com
+!www.zaxbys.com##.optional-png.promo-bar.violator
+
+! 2022-08-11 https://github-wiki-see.page
+github-wiki-see.page###footer_info
+
+! 2022-11-09 https://www.nytimes.com
+www.nytimes.com###standalone-footer
+
+
+www.nytimes.com##.eln-o3ic44.vote-expectations
+
+! 2022-12-22 https://genius.com
+||genius.com/songs/296086/apple_music_player?react=1$subdocument
+
+! 2023-01-13 https://www.amazon.com
+www.amazon.com##.s-widget-padding-bottom.s-border-top-overlap.s-border-bottom.s-include-content-margin
+
+! 2023-03-08 https://www.waze.com
+www.waze.com###WMEFUPS
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.1###VideoRecordingModal
+10.14.1.1##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.2###VideoRecordingModal
+10.14.1.2##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.3###VideoRecordingModal
+10.14.1.3##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.4###VideoRecordingModal
+10.14.1.4##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.5###VideoRecordingModal
+10.14.1.5##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.6###VideoRecordingModal
+10.14.1.6##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.7###VideoRecordingModal
+10.14.1.7##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.8###VideoRecordingModal
+10.14.1.8##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.9###VideoRecordingModal
+10.14.1.9##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.10###VideoRecordingModal
+10.14.1.10##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.11###VideoRecordingModal
+10.14.1.11##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.12###VideoRecordingModal
+10.14.1.12##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.13###VideoRecordingModal
+10.14.1.13##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.14###VideoRecordingModal
+10.14.1.14##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.15###VideoRecordingModal
+10.14.1.15##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.16###VideoRecordingModal
+10.14.1.16##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.17###VideoRecordingModal
+10.14.1.17##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.18###VideoRecordingModal
+10.14.1.18##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.19###VideoRecordingModal
+10.14.1.19##.in.fade.modal-backdrop
+
+! 2023-03-30 https://10.14.1.1
+10.14.1.20###VideoRecordingModal
+10.14.1.20##.in.fade.modal-backdrop
+
+! 2023-05-27 Remove discord's super reaction prompts
+discord.com##div[aria-label="Add Super Reaction"]
