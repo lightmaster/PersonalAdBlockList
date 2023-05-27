@@ -146,8 +146,3 @@ www.waze.com###WMEFUPS
 
 ! 2023-05-27 Remove discord's super reaction prompts
 discord.com##div[aria-label="Add Super Reaction"]
-
-! 2023-05-27 Testing "My Rules"
-* baxleyweather.com * allow
-baxleyweather.com google-analytics.com * allow
-baxleyweather.com googletagmanager.com * allow
