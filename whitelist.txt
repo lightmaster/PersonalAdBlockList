@@ -35,7 +35,7 @@
 @@||redirect.viglink.com^$important
 
 ! Random Useful whitelists
-@@||adobe.com^$important
+@@||www.adobe.com^$important
 @@||ajax.googleapis.com^$important
 @@||content.googleapis.com^$important
 @@||google.com^$important
