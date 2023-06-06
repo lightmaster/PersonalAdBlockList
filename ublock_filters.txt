@@ -146,3 +146,9 @@ www.waze.com###WMEFUPS
 
 ! 2023-05-27 Remove discord's super reaction prompts
 discord.com##div[aria-label="Add Super Reaction"]
+
+! 2023-04-28 https://coolors.co
+coolors.co###ay8VDc2asp0
+coolors.co##.aPlvC1YsHsV.adbx9OWQgcQ.ayU7SZeZ4Ei
+coolors.co###aSEFsUrjS3N
+coolors.co##.aAwHIsC0r5e.aosykE8JqCS.auSotBmQ2GY
