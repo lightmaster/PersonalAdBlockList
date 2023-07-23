@@ -434,3 +434,25 @@
 
 @@||fineagedgaming.com^$important
 @@||vyper.io^$important
+
+# 2023-07-23
+
+# Allow Unifi Ping Test
+@@||trace.svc.ui.com^$important
+
+# Don't remember why
+@@||ablink.stream.max.com^$important
+@@||cdn.cookielaw.org^$important
+@@||www.anrdoezrs.net^$important
+@@||jizzy.org^$important
+@@||www.upload-4ever.com^$important
+
+# Unblock to get icon's working on PortableApps.com
+@@||cdn2.portableapps.com^$important
+
+# Unblock to make sure Life360 works
+@@||api-cloudfront.life360.com^$important
+
+# Hilton's App doesn't work properly when this is blocked
+@@||smetric.hilton.com^$important
+
