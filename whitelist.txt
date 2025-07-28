@@ -303,7 +303,6 @@
 @@||www.solidfiles.com^$important
 @@||clickserve.dartsearch.net^$important
 @@||goto.walmart.com^$important
-@@||d.joinhoney.com^$important
 @@||click.email.anthem.com^$important
 @@||go.androidpolice.com^$important
 @@||tracking.v-sept.net^$important
