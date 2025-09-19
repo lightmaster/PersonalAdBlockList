@@ -120,7 +120,6 @@ forums.sonarr.tv##.banner
 ||na2m-stg2.licenses.adobe.com^$important
 ||na4r.services.adobe.com^$important
 ||ocsp.spo1.verisign.com^$important
-||ood.opsource.net ^$important
 ||ood.opsource.net^$important
 ||practivate.adobe.^$important
 ||practivate.adobe.com^$important
