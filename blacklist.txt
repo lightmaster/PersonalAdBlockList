@@ -263,3 +263,39 @@ forums.sonarr.tv##.banner
 ||m229.absolute.com^$important
 /m*.absolute.com/
 ||absolute.com^$important
+
+! 2024-03-15 https://myaccounts.capitalone.com
+myaccounts.capitalone.com##.c1-ease-hero-bar__section
+
+! 2024-04-23 https://animorphs.fandom.com
+animorphs.fandom.com##.page__right-rail
+animorphs.fandom.com##.global-navigation
+
+! Oct 10, 2024 https://orteil.dashnet.org
+orteil.dashnet.org###topBar
+
+! 2024-05-04 https://www.pvcfittingsonline.com
+www.pvcfittingsonline.com##.fomo-notification-container
+
+! Aug 19, 2024 https://raspberrytips.com
+raspberrytips.com##.ai-viewport-1
+raspberrytips.com##.ml_form
+raspberrytips.com##.kadence-conversion-inner
+
+! 2023-12-21 https://www.troublefreepool.com
+www.troublefreepool.com##div.tfp_donateListPromo.block
+
+! 2024-01-18 https://genius.com
+||genius.com/songs/*/apple_music_player$subdocument
+
+! Mar 25, 2025 https://www.dickssportinggoods.com
+www.dickssportinggoods.com##.header-ticker-minimum.rh-ticker-carousel-wrapper
+
+! Apr 14, 2025 https://www.olight.com
+www.olight.com##.quickcep_video-wrapper
+
+! Jul 23, 2025 https://www.fallenlondon.com
+||images.fallenlondon.com/ads/$image
+
+! Sept 19, 2025 Block footer banners that complain about ad blocking software
+##div:has-text(ad or script blocking software)
