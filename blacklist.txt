@@ -301,3 +301,4 @@ www.olight.com##.quickcep_video-wrapper
 
 ! Nov 2, 2025 Block all .icu domains
 ||icu^$important
+||s.id^$important
