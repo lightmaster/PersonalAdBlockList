@@ -298,3 +298,6 @@ www.olight.com##.quickcep_video-wrapper
 
 ! Sept 19, 2025 Block footer banners that complain about ad blocking software
 ##div:has-text(ad or script blocking software)
+
+! Nov 2, 2025 Block all .icu domains
+||icu^$important
